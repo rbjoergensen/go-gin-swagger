@@ -16,6 +16,8 @@ go run main.go
 
 And open the swagger site at [http://localhost:8080/swagger/index.html](http://localhost:8080/swagger/index.html).
 
+![](swagger.png)
+
 ## Links
 Links for resources used in this example.
 
